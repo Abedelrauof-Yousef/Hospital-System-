@@ -1,7 +1,5 @@
 # Hospital-Management-System
 
-# Hospital-Management-System
-
 # TheraWell
 
 ## Project Overview
